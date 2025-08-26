@@ -7,6 +7,8 @@
 Proyecto de prueba utilizando **Nuxt 2**, **Vuex**, y **Composition API con TypeScript**.  
 Incluye manejo de estado global, persistencia en `localStorage`, filtros, buscador y UI responsive con transiciones.
 
+nose porque usan localstorage + sessionstorage si con pinia pueden usar storage y si lo necesitan persistent pueden usar pinia-plugin-persistedstate
+
 ---
 
 ## 🛠️ Requisitos
@@ -21,8 +23,8 @@ Incluye manejo de estado global, persistencia en `localStorage`, filtros, buscad
 
 1. **Clonar el repositorio**
    ```bash
-   git clone <url-del-repo>
-   cd <nombre-del-repo>
+   git clone https://github.com/reaction129/my-nuxt2-app.git
+   cd my-nuxt2-app
 
 
    
